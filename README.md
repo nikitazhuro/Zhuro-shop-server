@@ -62,7 +62,7 @@ The following interfaces are also available for the admin: ability to add and re
 
 ## How to start:
 
-1. Clone server and client repositories,
+1. Clone server and client repositories (clientRep - [https://github.com/nikitazhuro/Zhuro-shop-client](https://github.com/nikitazhuro/Zhuro-shop-client)),
 2. Install all dependencies in server and client directories with: `npm i`,
 3. To start server you must create .env file and put next parameters:
    - PORT,
