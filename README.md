@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can test it here: [https://zhuro-shop-client.web.app/](https://zhuro-shop-client.web.app/).
+
 ## Technologies:
 
 ### Frontend:
@@ -13,8 +15,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Client part was deployed on firebase.
 
-Project link - [https://zhuro-shop-client.web.app/](https://zhuro-shop-client.web.app/).
-
 ### Backend (node.js):
 
 + express,
@@ -22,8 +22,6 @@ Project link - [https://zhuro-shop-client.web.app/](https://zhuro-shop-client.we
 + bcrypt, cookie-parser, uuid, nodemailer.
 
 Server part was deployed on heroku.
-
-Project link - [https://zhuro-shop-client.web.app/](https://zhuro-shop-client.web.app/).
 
 ### Project description: 
 
@@ -80,8 +78,6 @@ The following interfaces are also available for the admin: ability to add and re
 4. Run `npm start`,
 5. To start client you should run `npm run build` and then `npm start`,
 6. Run `http://localhost:8080` in browser.
-
-So, you can try to test it here: [https://zhuro-shop-client.web.app/](https://zhuro-shop-client.web.app/).
 
 Use GitHub only for code review.
 
